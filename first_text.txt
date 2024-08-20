@@ -2476,3 +2476,8 @@ yummy	3
 zealot	-2
 zealots	-2
 zealous	2
+
+# Custom phrases
+custom:good enough	It looks like you suffer from impostor syndrome
+custom:incapable	It looks like you suffer from impostor syndrome
+custom:not sufficient	It looks like you suffer from impostor syndrome
