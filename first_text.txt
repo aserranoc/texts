@@ -2481,3 +2481,4 @@ zealous	2
 custom:good enough	It looks like you suffer from impostor syndrome
 custom:incapable	It looks like you suffer from impostor syndrome
 custom:not sufficient	It looks like you suffer from impostor syndrome
+custom:i am not	It looks like you suffer from impostor syndrome
